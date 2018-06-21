@@ -7,6 +7,14 @@ The player starts the game standing in the grass and the enemies start crossing 
 The user will have to control de player and make her reach the water avoiding the enemies.
 If the player and the enemies collide, she will go back to the starting point.
 
+To control the player, the user should use the four arrow keys on the kewboard: up, down, right and left will place the player one step up, down, right or left (respectively).
+
+You can download the game from https://github.com/LolaGL/classic-arcade-game-clone-udacity by clicking on "download game".
+To load the game locally, you should double click on the index.html file. Your default web browser will load the file and the game starts.
+
+
+
+
 
 frontend-nanodegree-arcade-game
 ===============================
